@@ -1,4 +1,7 @@
 #EXTM3U
+url-tvg="https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
+url-tvg="https://bit.ly/aqfadtvepg" refresh="1440" max-conn="1" refresh="24"
+
 #EXTINF:0 tvg-id="ext" group-title="UNITED STATE",Cinemax U.S
 http://axcestv.vip:8080/freeview/axcestv/635
 #EXTINF:0 tvg-id="ext" group-title="UNITED STATE",FXM Channel
