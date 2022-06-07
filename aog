@@ -39,7 +39,7 @@ https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w286319123_b1692000.m3
 #EXTINF:-1, group-title="Vietnam",NAT GEO WILD VN
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1,group-title="Vietnam", Animal planet VN
+#EXTINF:-1, group-title="Vietnam", Animal planet VN
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?token=
 
 #EXTINF:-1, group-title="Vietnam",dream work vn
