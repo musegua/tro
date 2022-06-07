@@ -15,180 +15,179 @@
 
 ************vietnam***************
 
-#EXTINF:-1, HTV 1
+#EXTINF:-1, group-title="Vietnam",HTV 1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
 
-#EXTINF:-1, HTV 2
+#EXTINF:-1, group-title="Vietnam",HTV 2
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, HTV 3
+#EXTINF:-1, group-title="Vietnam",HTV 3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 
-#EXTINF:-1, HTV 4 VN
+#EXTINF:-1, group-title="Vietnam",HTV 4 VN
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8
 
-#EXTINF:-1, SCTV 2
+#EXTINF:-1, group-title="Vietnam",SCTV 2
 https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=?byhthanh
 
-#EXTINF:-1, SCTV 18
+#EXTINF:-1, group-title="Vietnam",SCTV 18
 https://vtsstr6.tv24.vn/live/SCTV18_HD_new.smil/chunklist_w379563770_b2692000.m3u8
 
-#EXTINF:-1, SCTV 22
+#EXTINF:-1, group-title="Vietnam",SCTV 22
 https://vtsstr6.tv24.vn/live/SCTV22_HD_new.smil/chunklist_w286319123_b1692000.m3u8
 
-
-#EXTINF:-1, NAT GEO WILD VN
+#EXTINF:-1, group-title="Vietnam",NAT GEO WILD VN
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, Animal planet VN
+#EXTINF:-1,group-title="Vietnam", Animal planet VN
 https://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8?token=
 
-#EXTINF:-1, dream work vn
+#EXTINF:-1, group-title="Vietnam",dream work vn
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, blue ant entertainment VN
+#EXTINF:-1, group-title="Vietnam",blue ant entertainment VN
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, BLUE ANT extream VN
+#EXTINF:-1, group-title="Vietnam",BLUE ANT extream VN
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, HBO asia VN
+#EXTINF:-1, group-title="Vietnam",HBO asia VN
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 
-#EXTINF:-1, HBO SIGNATURE
+#EXTINF:-1, group-title="Vietnam",HBO SIGNATURE
 https://edge3-sl.cvattv.com.ar/live/c6eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature-avc1_4999936=10006.m3u8
 
-#EXTINF:-1, Cinemax VN
+#EXTINF:-1, group-title="Vietnam",Cinemax VN
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1, KiX VN
+#EXTINF:-1, group-title="Vietnam",KiX VN
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, AXN VN
+#EXTINF:-1, group-title="Vietnam",AXN VN
 http://s4.nihontv.net:21585/axn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Boomerang VN
+#EXTINF:-1, group-title="Vietnam",Boomerang VN
 https://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, Animax vn
+#EXTINF:-1, group-title="Vietnam",Animax vn
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1, CARTOON NETWORK VN
+#EXTINF:-1, group-title="Vietnam",CARTOON NETWORK VN
 http://s4.nihontv.net:21585/cartoon/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, nick turtles
+#EXTINF:-1, group-title="Vietnam",nick turtles
 https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
 
-#EXTINF:-1, Discovery channel VN
+#EXTINF:-1, group-title="Vietnam",Discovery channel VN
 https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, AFC asia VN
+#EXTINF:-1, group-title="Vietnam",AFC asia VN
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1, VTC 1
+#EXTINF:-1, group-title="Vietnam",VTC 1
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8?token=
 
-#EXTINF:-1, VTC 2
+#EXTINF:-1, group-title="Vietnam",VTC 2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8?token=
 
-#EXTINF:-1, VTC 7
+#EXTINF:-1, group-title="Vietnam",VTC 7
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1, movie eu
+#EXTINF:-1, group-title="Vietnam",movie eu
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
-#EXTINF:-1,Cine life
+#EXTINF:-1, group-title="Vietnam",group-title="Vietnam",group-title="Vietnam",group-title="Vietnam",Cine life
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1,flix china
+#EXTINF:-1, group-title="Vietnam",group-title="Vietnam",group-title="Vietnam",flix china
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1,CINEMAX TH
+#EXTINF:-1, group-title="Vietnam",group-title="Vietnam",CINEMAX TH
 http://ip2121.com:8081/live/cinemax/playlist.m3u8
 
-#EXTINF:-1, Discovery ch TH
+#EXTINF:-1, group-title="Vietnam",Discovery ch TH
 http://ip2121.com:8081/live/discovery/playlist.m3u8
 
 
 *******************INDONESIA**************************
 
-#EXTINF:-1, SCTV
+#EXTINF:-1, group-title="Indonesia",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1, INDOSIAR
+#EXTINF:-1, group-title="Indonesia",group-title="Indonesia", group-title="Indonesia",INDOSIAR
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1, ANTV
+#EXTINF:-1, group-title="Indonesia", group-title="Indonesia",ANTV
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:-1,Trans 7
+#EXTINF:-1, group-title="Indonesia",Trans 7
 http://210.210.155.37/uq2663/h/h11/index.m3u8
-#EXTINF:-1, trans7 HD
+#EXTINF:-1, group-title="Indonesia",Trans7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w3783346_b744100_sleng.m3u8
-#EXTINF:-1, TransTV
+#EXTINF:-1, group-title="Indonesia",TransTV
 http://210.210.155.37/qwr9ew/s/s05/index.m3u8
-#EXTINF:-1, transtv HD
+#EXTINF:-1, group-title="Indonesia",Transtv HD
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w295102329_b744100_sleng.m3u8
-#EXTINF:-1, NET TV
+#EXTINF:-1, group-title="Indonesia",NET TV
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-#EXTINF:-1, RTV
+#EXTINF:-1, group-title="Indonesia",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:-1, METRO TV
+#EXTINF:-1, group-title="Indonesia",METRO TV
 http://210.210.155.37/uq2663/h/h12/index.m3u8
-#EXTINF:-1, kompas tv
+#EXTINF:-1, group-title="Indonesia",Kompas tv
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
-#EXTINF:-1, CNN INDONESIA
+#EXTINF:-1, group-title="Indonesia",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1251744017_b384000_sleng.m3u8
-#EXTINF:-1, CNBC INDONESIA
+#EXTINF:-1, group-title="Indonesia",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w914497444_b384000_sleng.m3u8
-#EXTINF:-1, O Saluran HD
+#EXTINF:-1, group-title="Indonesia",O Saluran HD
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
-#EXTINF:-1, Elshinta TV
+#EXTINF:-1, group-title="Indonesia",Elshinta TV
 http://210.210.155.37/qwr9ew/s/s10/index.m3u8
-#EXTINF:-1, TVRI
+#EXTINF:-1, group-title="Indonesia",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
-#EXTINF:-1, CCM(Sub Indonesia)
+#EXTINF:-1, group-title="Indonesia",CCM(Sub Indonesia)
 http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1, Celestial Movies Asia
+#EXTINF:-1, group-title="Indonesia",Celestial Movies Asia
 http://210.210.155.37/dr9445/h/h14/index.m3u8
-#EXTINF:-1,bRock Extreme Asia
+#EXTINF:-1, group-title="Indonesia",Rock Extreme Asia
 http://210.210.155.37/dr9445/h/h15/index.m3u8
-#EXTINF:-1, Rock Entertainment Asia
+#EXTINF:-1, group-title="Indonesia",Rock Entertainment Asia
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1, Zee Bioskop
+#EXTINF:-1, group-title="Indonesia",Zee Bioskop
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1, THRILL TV (Sub Indonesia)
+#EXTINF:-1, group-title="Indonesia",THRILL TV (Sub Indonesia)
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1, Kix Asia
+#EXTINF:-1, group-title="Indonesia",Kix Asia
 http://210.210.155.37/dr9445/h/h07/index.m3u8
-EXTINF:-1, CinemaWorld Asia
+EXTINF:-1, group-title="Indonesia",CinemaWorld Asia
 http://210.210.155.37/dr9445/h/h04/index.m3u8
-#EXTINF:-1, CINE EUROPa
+#EXTINF:-1, group-title="Indonesia",CINE EUROPa
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-#EXTINF:-1, Hits id
+#EXTINF:-1, group-title="Indonesia",Hits id
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-#EXTINF:-1, AXN Asia Timur
+#EXTINF:-1, group-title="Indonesia",AXN Asia Timur
 http://210.210.155.37/dr9445/h/h141/index.m3u8
-#EXTINF:-1, ANIMAX ID
+#EXTINF:-1, group-title="Indonesia",ANIMAX ID
 http://210.210.155.37/dr9445/h/h144/index.m3u8
-#EXTINF:-1, Aniplus Asia
+#EXTINF:-1, group-title="Indonesia",Aniplus Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
-#EXTINF:-1, mkidz
+#EXTINF:-1, group-title="Indonesia",mkidz
 http://210.210.155.37/session/31e6b57a-a763-11ec-8eb9-b82a72d63267/uq2663/h/h191/index.m3u8?app_type=web&userid=k91eavf37va&tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&chname=My_Kidz_HD
-#EXTINF:-1, toon
+#EXTINF:-1, group-title="Indonesia",toon
 http://210.210.155.37/session/6b5eaa6a-a763-11ec-96b8-b82a72d63267/x6bnqe/s/s81/01.m3u8?app_type=web&userid=k91eavf37va&tkn=SC94IUJOPUUEA7ON21WZ8TXL1YWJN4W2&chname=Toonz_Kids
-#EXTINF:-1, K+ (Sub Indonesia)
+#EXTINF:-1, group-title="Indonesia",K+ (Sub Indonesia)
 http://210.210.155.37/uq2663/h/h08/index.m3u8
-#EXTINF:-1, GEM TV
+#EXTINF:-1, group-title="Indonesia",GEM TV
 http://210.210.155.37/uq2663/h/h19/index.m3u8
-#EXTINF:-1, Jaringan TELUR
+#EXTINF:-1, group-title="Indonesia",Jaringan TELUR
 http://210.210.155.37/uq2663/h/h22/index.m3u8
-#EXTINF:-1, SBS KOREA
+#EXTINF:-1, group-title="Indonesia",SBS KOREA
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1,ONe korea
+#EXTINF:-1, group-title="Indonesia",ONe korea
 http://210.210.155.37/uq2663/h/h143/index.m3u8
-#EXTINF:-1, TVN
+#EXTINF:-1, group-title="Indonesia",TVN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
-#EXTINF:-1,TVN movies
+#EXTINF:-1, group-title="Indonesia",TVN movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:-1, Biznet adventure
+#EXTINF:-1, group-title="Indonesia",Biznet adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLg
 
 
