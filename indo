@@ -68,10 +68,10 @@ https://alhijrahmedia.com/tv-alhijrah-live-streaming/
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png"group-title="MYTV",IKIM TV
+#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png" group-title="MYTV",IKIM TV
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png"group-title="MYTV",IKIM TV-B
+#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png" group-title="MYTV",IKIM TV-B
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="MYTV",TVS
@@ -123,7 +123,7 @@ https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKaree
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MYTV", Astro Awani HD 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",Astro Ria HD 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
