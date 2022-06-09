@@ -20,8 +20,7 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="MYTV" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-http://axcestv.vip:8080/freeview/axcestv/626
-https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 
 #EXTINF:-1 tvg-id="103" group-title="MYTV" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3 A
 http://iptv12k.com:35461/8022022301/468985/740
