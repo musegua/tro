@@ -10,101 +10,101 @@
 
 **************MYTV**********************
 
-#EXTINF:-1 tvg-id="101" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png",TV1
+#EXTINF:-1 tvg-id="101" group-title="MYTV" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-id="102" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png",TV2
+#EXTINF:-1 tvg-id="102" group-title="MYTV" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png",TV2
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
-#EXTINF:-1 tvg-id="103" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3
+#EXTINF:-1 tvg-id="103" group-title="MYTV" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 http://axcestv.vip:8080/freeview/axcestv/626
 https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408758887.ts
 
-#EXTINF:-1 tvg-id="103" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3 A
+#EXTINF:-1 tvg-id="103" group-title="MYTV" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3 A
 http://iptv12k.com:35461/8022022301/468985/740
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="🇲🇾 OneGO",TV3 B
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MYTV",TV3 B
 https://live.astradamy.com/tv3/index.m3u8
 
-#EXTINF:-1 tvg-id="106" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/8d4qB3r/6.png",TV6
+#EXTINF:-1 tvg-id="106" group-title="MYTV" tvg-logo="https://i.ibb.co/8d4qB3r/6.png",TV6
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="107" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png",DidikTV
+#EXTINF:-1 tvg-id="107" group-title="MYTV" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png",DidikTV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="108" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png",8TV
+#EXTINF:-1 tvg-id="108" group-title="MYTV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png",8TV
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
-#EXTINF:-1 tvg-id="109" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png",TV9
+#EXTINF:-1 tvg-id="109" group-title="MYTV" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png",TV9
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png",Drama Sangat
+#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-#EXTINF:-1 tvg-id="110" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png",TV Okey
+#EXTINF:-1 tvg-id="110" group-title="MYTV" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png",TV Okey
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-​#EXTINF:-1 group-title="RTM" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg",TV Okey [MPEG-DASH] 
+​#EXTINF:-1 group-title="MYTV" ch-number="RTMK03" tvg-id="RTMK03" tvg-chno="RTMK03" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV%20Okey.jpg",TV Okey [MPEG-DASH] 
 ​https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah 
+#EXTINF:-1 group-title="MYTV" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",TV Alhijrah 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4 
 https://fvtv.mywire.org/dash/tvalhijrah.mpd
 
-#EXTINF:-1 tvg-id="114" group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png",TV Alhijrah B
+#EXTINF:-1 tvg-id="114" group-title="MYTV" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png",TV Alhijrah B
 https://alhijrahmedia.com/tv-alhijrah-live-streaming/
 
-#EXTINF:-1 tvg-id="123" group-title="🇲🇾 OneGO" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png"group-title="🇲🇾 OneGO",IKIM TV
+#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png"group-title="MYTV",IKIM TV
 http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png"group-title="🇲🇾 OneGO",IKIM TV-B
+#EXTINF:-1 tvg-id="" tvg-name="IKIM TV" tvg-logo="https://i.ibb.co/JppZFKx/Pics-Art-02-12-10-33-59.png"group-title="MYTV",IKIM TV-B
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8?fbclid=IwAR0gHbmTms16QysOYsKELXivRa47GYg-q4SDT8_hCWKO3kisY36mLxBSmL4
 
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="🇲🇾 OneGO",TVS
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="MYTV",TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
-#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="🇲🇾 OneGO",Bernama
+#EXTINF:-1 tvg-id="502" tvg-name="BERNAMA" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="MYTV",Bernama
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1717
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="🇲🇾 OneGO",BERNAMA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428145_ico.png" group-title="MYTV",BERNAMA
 https://mediahomes.github.io/assets/yt/bnc.m3u8|Referer=https://www.youtube.com
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" tvg-url="" group-title="🇲🇾 OneGO",Awani
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-country="MY" tvg-language="Malay (macrolanguage)" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" tvg-url="" group-title="MYTV",Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
-#EXTINF:-1 tvg-id"" tvg-name="RTB Brunei" tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="🇲🇾 OneGO",RTB (Brunei)
+#EXTINF:-1 tvg-id"" tvg-name="RTB Brunei" tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="MYTV",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" " group-title="🇲🇾 OneGO" tvg-logo="https://i.ibb.co/30qJNwB/Pics-Art-02-12-10-41-57.png",Al Jazeera
+#EXTINF:-1 tvg-id=" " group-title="MYTV" tvg-logo="https://i.ibb.co/30qJNwB/Pics-Art-02-12-10-41-57.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="🇲🇾 OneGO",Astro Vaanavil
+#EXTINF:-1 tvg-id="Vaanavil" tvg-name="Astro Vaanavil" tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="MYTV",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_09.m3u8
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
 
-#EXTINF:-1 tvg-id="120" tvg-name="MY: GO SHOP 120 GAAYA" tvg-logo="https://i.imgur.com/3y9cxDd.png" group-title="🇲🇾 OneGO",GO SHOP
+#EXTINF:-1 tvg-id="120" tvg-name="MY: GO SHOP 120 GAAYA" tvg-logo="https://i.imgur.com/3y9cxDd.png" group-title="MYTV",GO SHOP
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
 
-#EXTINF:-1 tvg-id="121" tvg-name="MY: GO SHOP 121 RUUMA" tvg-logo="https://i.imgur.com/3y9cxDd.png" group-title="🇲🇾 OneGO",GO SHOP 2
+#EXTINF:-1 tvg-id="121" tvg-name="MY: GO SHOP 121 RUUMA" tvg-logo="https://i.imgur.com/3y9cxDd.png" group-title="MYTV",GO SHOP 2
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/p4G4MW0/ASIA.png" group-title="🇲🇾 OneGO",CNA
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/p4G4MW0/ASIA.png" group-title="MYTV",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 ********************Thailand***********************
