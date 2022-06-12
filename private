@@ -26,13 +26,13 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="103" group-title="MYTV" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3
 #EXTVLCOPT:http-referrer=https://dailymotion.com
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="103" group-title="MYTV" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png",TV3 A
 http://iptv12k.com:35461/8022022301/468985/740
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MYTV",TV3 B
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3-B" tvg-logo="https://i.ibb.co/mXND8gB/CCZ.png" group-title="MYTV",TV3 B
 https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="MYTV" tvg-logo="https://i.ibb.co/8d4qB3r/6.png",TV6
@@ -70,7 +70,7 @@ https://fvtv.mywire.org/dash/tvalhijrah.mpd
 #EXTINF:-1 tvg-id="114" group-title="MYTV" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png",TV Alhijrah B
 https://alhijrahmedia.com/tv-alhijrah-live-streaming/
 
-#EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
@@ -126,69 +126,69 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 group-title="MYTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MYTV", Astro Awani HD 
+#EXTINF:-1 tvg-id="501" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="MYTV", Astro Awani HD 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD 
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD A
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD A
 http://iptv12k.com:35461/8032022060101/452381/735
 http://linears-playback.astro.com.my/vsg/218AFdfSdrJq36kg_agjMos720IXn6t5_Ogj2pJX_-tDg=Fj8c/dash-wv/jitp-linearwm/1004/default_ott.mpd 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD B
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD B
 http://linears-playback.astro.com.my/vsg/21_YiP04oA56TTwUKTsw9bZfMogOk6Y-Fa_QUcg0tJDdA=Ox-x/dash-wv/jitp-linearwm/1004/default_ott.mpd 
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD C
+#EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MYTV",Astro Ria HD C
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004 
 https://tv.kpsvpn.com/ria.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MYTV", Astro Prima HD 
+#EXTINF:-1 tvg-id="105" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Prima_v1.png" group-title="MYTV", Astro Prima HD 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MYTV",Astro Warna HD 
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MYTV",Astro Warna HD 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MYTV",Astro Warna HD A
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MYTV",Astro Warna HD A
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402 
 https://tv.kpsvpn.com/warna.mpd
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MYTV",Astro Warna HD B
+#EXTINF:-1 tvg-id="107" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png" group-title="MYTV",Astro Warna HD B
 http://iptv12k.com:35461/8032022060101/452381/5075
 http://iptv12k.com:35461/8032022060101/452381/5074
 http://iptv12k.com:35461/8032022060101/452381/4313
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MYTV",Astro Citra HD 
+#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MYTV",Astro Citra HD 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MYTV",Astro Citra HD A
+#EXTINF:-1 tvg-id="108" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="MYTV",Astro Citra HD A
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700 
 https://tv.kpsvpn.com/citra.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MYTV",Astro Citra HD B
+#EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MYTV",Astro Citra HD B
 http://iptv12k.com:35461/8032022060101/452381/6608
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2awDx_400x400.jpg" group-title="MYTV", Sensasi HD 
 https://ktiptv.cf:443/48268/48268/656644
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MYTV",Astro Ceria HD 
+#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MYTV",Astro Ceria HD 
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142672.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MYTV",Astro Ceria HD A
+#EXTINF:-1 tvg-id="611" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="MYTV",Astro Ceria HD A
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="MYTV", TA-DAA! 
+#EXTINF:-1 tvg-id="612" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png" group-title="MYTV", TA-DAA! 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_primary.mpd
 
 ********************Thailand***********************
